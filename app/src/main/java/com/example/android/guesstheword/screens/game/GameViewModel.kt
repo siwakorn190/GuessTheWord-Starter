@@ -54,7 +54,7 @@ class GameViewModel : ViewModel() {
             //Select and remove a word from the list
             word = wordList.removeAt(0)
         }
-        
+
     }
     /** Methods for buttons presses **/
     fun onSkip() {
